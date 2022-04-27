@@ -3984,8 +3984,8 @@ fieldset:disabled .btn {
 
 .btn-info {
   color: #fff;
-  background-color: #FF5A15;
-  border-color: #FF5A15;
+  background-color: #111;
+  border-color: #111;
 }
 
 .btn-info:hover {
